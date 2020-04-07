@@ -1,0 +1,17 @@
+{
+	"include": ["src/**/*"],
+	"compilerOptions": {
+		"moduleResolution": "node",
+		"module": "commonjs",
+		"target": "es6",
+		"noImplicitAny": true,
+		"allowJs": false,
+		"sourceMap": true,
+		"outDir": "./build",
+		"esModuleInterop": true
+	},
+	"typedocOptions": {
+		"out": "./docs",
+		"mode": "file"
+	}
+}
