@@ -30,7 +30,7 @@
 		"spec": "src/**/*.spec.ts"
 	},
 	"devDependencies": {
-		"@types/chai": "^4.2.13",
+		"@types/chai": "^4.2.14",
 		"@types/mocha": "^7.0.2",
 		"@typescript-eslint/eslint-plugin": "^2.34.0",
 		"@typescript-eslint/parser": "^2.34.0",
